@@ -3,14 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://umme-zimia.github.io/react-portfolio-site",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",
+  "homepage": "https://theZimia.github.io/Counter-React-Bootstrap",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview",
+    "lint": "eslint .",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
